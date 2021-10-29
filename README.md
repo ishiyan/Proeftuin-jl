@@ -1,2 +1,2 @@
 # Proeftuin-jl
-Julia things
+Julia playground
